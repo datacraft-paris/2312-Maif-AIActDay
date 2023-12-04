@@ -1,4 +1,4 @@
-shapash>=2.3.7
+shapash==2.3.7
 eurybia>= 1.1.1
 pygwalker>=0.3.0
 catboost>=1.2.0
